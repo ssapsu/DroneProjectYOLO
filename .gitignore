@@ -1,2 +1,16 @@
 .env
 Parcel-Collection-1/
+runs/
+*.jpg
+*.png
+*.jpeg
+*.csv
+*.pt
+*.pth
+*.tar
+*.zip
+*.rar
+*.pt
+*.csv
+.vscode/
+
